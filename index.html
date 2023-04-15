@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="shortcut icon" href="favicon.png" type="image/x-icon">    
+        <title>MovieVault</title>
+
+        <script src="src/main.ts" type="module"></script>
+    </head>
+    <body>
+        <aside class="sidebar sidebar-static">
+            <div class="minimized-content">
+                <a href="">
+                    <img src="src/assets/images/logo.svg" alt="Video player icon, MovieVault logo">
+                </a>
+    
+                <button class="expand-button">
+                    <svg width="45" height="40" viewBox="0 0 29 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M14.25 32.6833L27.5 16.9306L14.25 1.17778" stroke="#584EB4" stroke-width="2" stroke-linecap="round"/>
+                        <path d="M1 32.6833L14.25 16.9306L1 1.17778" stroke="#584EB4" stroke-width="2" stroke-linecap="round"/>
+                    </svg>  
+                </button>
+            </div>
+
+            <form class="expanded-content">
+                <button class="minimize-button" type="button">
+                    <img src="src/assets/images/close.svg" alt="Close icon">
+                </button>
+
+                <a href="">
+                    <img src="src/assets/images/labelled-logo.svg" alt="Video player with 'VideoVault' label"
+                        class="labelled-logo">
+                </a>
+
+                <input type="text" class="text-field search-query-field" placeholder="Search by title">
+
+                <div class="filters">
+                    <label class="checkbox-container">
+                        <input type="checkbox" id="recentCheckbox">
+
+                        <span class="fake-checkbox">
+                            <svg width="10" height="9" viewBox="0 0 10 9" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                class="check-mark-icon">
+                                <path d="M1 5.95833L4.25926 8L9 1" stroke="white" stroke-linecap="round"/>
+                            </svg> 
+                        </span>
+
+                        <span>
+                            Recent
+                        </span>
+                    </label>
+
+                    <label class="checkbox-container">
+                        <input type="checkbox" id="goodRatingCheckbox">
+
+                        <span class="fake-checkbox">
+                            <svg width="10" height="9" viewBox="0 0 10 9" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                class="check-mark-icon">
+                                <path d="M1 5.95833L4.25926 8L9 1" stroke="white" stroke-linecap="round"/>
+                            </svg> 
+                        </span>
+
+                        <span>
+                            Good rating
+                        </span>
+                    </label>
+
+                    <details class="genre-filters-spoiler">
+                        <summary>
+                            Genres
+                            <svg width="10" height="6" viewBox="0 0 10 6" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                class="genre-filters-spoiler-arrow">
+                                <path d="M1 1.25L5 4.75L9 1.25" stroke="white" stroke-linecap="round"/>
+                            </svg> 
+                        </summary>
+
+                        <label class="checkbox-container">
+                            <input type="checkbox" value="Drama">
+    
+                            <span class="fake-checkbox">
+                                <svg width="10" height="9" viewBox="0 0 10 9" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                    class="check-mark-icon">
+                                    <path d="M1 5.95833L4.25926 8L9 1" stroke="white" stroke-linecap="round"/>
+                                </svg> 
+                            </span>
+    
+                            <span>
+                                Drama
+                            </span>
+                        </label>
+
+                        <label class="checkbox-container">
+                            <input type="checkbox" value="Horror">
+    
+                            <span class="fake-checkbox">
+                                <svg width="10" height="9" viewBox="0 0 10 9" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                    class="check-mark-icon">
+                                    <path d="M1 5.95833L4.25926 8L9 1" stroke="white" stroke-linecap="round"/>
+                                </svg> 
+                            </span>
+    
+                            <span>
+                                Horror
+                            </span>
+                        </label>
+
+                        <label class="checkbox-container">
+                            <input type="checkbox" value="Horror">
+    
+                            <span class="fake-checkbox">
+                                <svg width="10" height="9" viewBox="0 0 10 9" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                    class="check-mark-icon">
+                                    <path d="M1 5.95833L4.25926 8L9 1" stroke="white" stroke-linecap="round"/>
+                                </svg> 
+                            </span>
+    
+                            <span>
+                                Sci-Fi
+                            </span>
+                        </label>
+
+                        <label class="checkbox-container">
+                            <input type="checkbox" value="Horror">
+    
+                            <span class="fake-checkbox">
+                                <svg width="10" height="9" viewBox="0 0 10 9" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                    class="check-mark-icon">
+                                    <path d="M1 5.95833L4.25926 8L9 1" stroke="white" stroke-linecap="round"/>
+                                </svg> 
+                            </span>
+    
+                            <span>
+                                Crime
+                            </span>
+                        </label>
+
+                        <label class="checkbox-container">
+                            <input type="checkbox" value="Horror">
+    
+                            <span class="fake-checkbox">
+                                <svg width="10" height="9" viewBox="0 0 10 9" fill="none" xmlns="http://www.w3.org/2000/svg"
+                                    class="check-mark-icon">
+                                    <path d="M1 5.95833L4.25926 8L9 1" stroke="white" stroke-linecap="round"/>
+                                </svg> 
+                            </span>
+    
+                            <span>
+                                Romance
+                            </span>
+                        </label>
+                    </details>
+
+                    <button class="filled-button search-button">
+                        Search
+                    </button>
+
+                    <p class="error-text">
+                        Your search query should be longer than 4 characters long
+                    </p>
+                </div>
+            </form>
+        </aside>
+
+        <main>
+            <button class="open-sidebar-button">
+                <img src="src/assets/images/menu.svg" alt="Three lines, menu icon">
+            </button>
+
+            <h1 class="heading">
+                Let’s watch something today:
+            </h1>
+
+            <p class="no-results-text">
+                Couldn't find any movies. Turn off filters or try again later
+            </p>
+
+            <template id="movieCardTemplate">
+                <li class="movie-card">
+                    <header>
+                        
+                    </header>
+    
+                    <div class="movie-info-container">
+                        <div class="movie-info">
+                            <a class="movie-title" href="" target="_blank">
+                                
+                            </a>
+    
+                            <span class="divider">
+                                ·
+                            </span>
+    
+                            <time class="movie-runtime" datetime="">
+                                
+                            </time>
+                        </div>
+    
+                        <ul class="genres-list">
+                            
+                        </ul>
+    
+                        <a href="" class="filled-button watch-button" target="blank">
+                            Watch
+                        </a>
+                    </div>
+                </li>
+            </template>
+
+            <div class="loading-indicator"></div>
+
+            <ul class="movies">
+                
+            </ul>
+        </main>
+    </body>
+</html>

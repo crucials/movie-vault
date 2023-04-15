@@ -1,0 +1,90 @@
+$soft-black-color: #121212;
+$gray-color: hsl(0, 0%, 30%);
+$purple-color: #584EB4;
+
+.text-field {
+    padding: 12px 24px;
+    background-color: #1F1F1F;
+    border-radius: 8px;
+    font-size: 1rem;
+    border: 1px solid transparent;
+    transition: border 0.3s;
+
+    &::placeholder {
+        color: $gray-color;
+    }
+
+    &:focus {
+        border: 1px solid $gray-color;
+    }
+}
+
+@media (max-width: 500px) {
+    .text-field {
+        font-size: 0.875rem;
+    }
+}
+
+
+.checkbox-container {
+    padding: 10px;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    transition: background-color 0.3s;
+    border-radius: 8px;
+    
+    &:hover {
+        background-color: $soft-black-color;
+        cursor: pointer;
+    }
+
+    input[type="checkbox"] {
+        position: absolute;
+        opacity: 0;
+        z-index: -1;
+    }
+
+    .fake-checkbox {
+        border: 1px solid hsla(0, 0%, 15%, 1);
+        width: 20px;
+        height: 20px;
+        border-radius: 4px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: background-color 0.3s;
+    }
+
+    .check-mark-icon {
+        transform-origin: bottom left;
+        scale: 0;
+        transition: scale 0.25s ease-in-out;
+    }
+
+    input[type="checkbox"]:checked + .fake-checkbox {
+        background-color: $purple-color;
+
+        .check-mark-icon {
+            scale: 1;
+        }
+    }
+}
+
+
+.filled-button {
+    display: inline-block;
+    background-color: $purple-color;
+    border-radius: 8px;
+    padding: 10px 24px;
+    transition: background-color 0.3s ease-out, scale 0.15s;
+
+    &:hover {
+        background-color: lighten($purple-color, 10);
+    }
+
+    &:active {
+        scale: 1.05;
+    }
+}
