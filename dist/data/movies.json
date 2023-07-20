@@ -1,0 +1,2162 @@
+[
+    {
+        "id": "tt0012349",
+        "title": "The Kid",
+        "runtimeStr": "1h 8min",
+        "genres": "Comedy, Drama, Family",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1921",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0015324",
+        "title": "Sherlock Jr.",
+        "runtimeStr": "45min",
+        "genres": "Action, Comedy, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1924",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0015864",
+        "title": "The Gold Rush",
+        "runtimeStr": "1h 35min",
+        "genres": "Adventure, Comedy, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BODI0NTFkMTItOTYyNC00MzQ4LTgzZWMtMzdhMDAyOWU5YjA5XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.7046_AL_.jpg",
+        "year": "1925",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0017136",
+        "title": "Metropolis",
+        "runtimeStr": "2h 33min",
+        "genres": "Drama, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1927",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0017925",
+        "title": "The General",
+        "runtimeStr": "1h 7min",
+        "genres": "Action, Adventure, Comedy",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1926",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0019254",
+        "title": "The Passion of Joan of Arc",
+        "runtimeStr": "1h 54min",
+        "genres": "Biography, Drama, History",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1928",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0021749",
+        "title": "City Lights",
+        "runtimeStr": "1h 27min",
+        "genres": "Comedy, Drama, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1931",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0022100",
+        "title": "M",
+        "runtimeStr": "1h 39min",
+        "genres": "Crime, Mystery, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1931",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0025316",
+        "title": "It Happened One Night",
+        "runtimeStr": "1h 45min",
+        "genres": "Comedy, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1934",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0027977",
+        "title": "Modern Times",
+        "runtimeStr": "1h 27min",
+        "genres": "Comedy, Drama, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1936",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0031381",
+        "title": "Gone with the Wind",
+        "runtimeStr": "3h 58min",
+        "genres": "Drama, Romance, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1939",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0031679",
+        "title": "Mr. Smith Goes to Washington",
+        "runtimeStr": "2h 9min",
+        "genres": "Comedy, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1939",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0032138",
+        "title": "The Wizard of Oz",
+        "runtimeStr": "1h 42min",
+        "genres": "Adventure, Family, Fantasy",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1939",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0032551",
+        "title": "The Grapes of Wrath",
+        "runtimeStr": "2h 9min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1940",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0032553",
+        "title": "The Great Dictator",
+        "runtimeStr": "2h 5min",
+        "genres": "Comedy, Drama, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1940",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0032976",
+        "title": "Rebecca",
+        "runtimeStr": "2h 10min",
+        "genres": "Drama, Film-Noir, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6975_AL_.jpg",
+        "year": "1940",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0033467",
+        "title": "Citizen Kane",
+        "runtimeStr": "1h 59min",
+        "genres": "Drama, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1941",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0034583",
+        "title": "Casablanca",
+        "runtimeStr": "1h 42min",
+        "genres": "Drama, Romance, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1942",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0035446",
+        "title": "To Be or Not to Be",
+        "runtimeStr": "1h 39min",
+        "genres": "Comedy, Romance, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGY3ZDgzY2MtNTllNi00ZWI1LTk1NTUtNWEzN2Q4YTA1ZGZiXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_Ratio0.6975_AL_.jpg",
+        "year": "1942",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0036775",
+        "title": "Double Indemnity",
+        "runtimeStr": "1h 47min",
+        "genres": "Crime, Drama, Film-Noir",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1944",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0036868",
+        "title": "The Best Years of Our Lives",
+        "runtimeStr": "2h 50min",
+        "genres": "Drama, Romance, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1946",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0038650",
+        "title": "It's a Wonderful Life",
+        "runtimeStr": "2h 10min",
+        "genres": "Drama, Family, Fantasy",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_Ratio0.6904_AL_.jpg",
+        "year": "1946",
+        "rating": "8.6"
+    },
+    {
+        "id": "tt0040522",
+        "title": "Bicycle Thieves",
+        "runtimeStr": "1h 29min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6975_AL_.jpg",
+        "year": "1948",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0040897",
+        "title": "The Treasure of the Sierra Madre",
+        "runtimeStr": "2h 6min",
+        "genres": "Adventure, Drama, Western",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1948",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0041959",
+        "title": "The Third Man",
+        "runtimeStr": "1h 33min",
+        "genres": "Film-Noir, Mystery, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1949",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0042192",
+        "title": "All About Eve",
+        "runtimeStr": "2h 18min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1950",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0042876",
+        "title": "Rashomon",
+        "runtimeStr": "1h 28min",
+        "genres": "Crime, Drama, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk1MDU5MjQ5NF5BMl5BanBnXkFtZTgwMDM2OTE4MzE@._V1_Ratio0.7046_AL_.jpg",
+        "year": "1950",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0043014",
+        "title": "Sunset Blvd.",
+        "runtimeStr": "1h 50min",
+        "genres": "Drama, Film-Noir",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1950",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0044741",
+        "title": "Ikiru",
+        "runtimeStr": "2h 23min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmM0NGY3Y2MtMTA1YS00YmQzLTk2YTctYWFhMDkzMDRjZWQzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1952",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0045152",
+        "title": "Singin' in the Rain",
+        "runtimeStr": "1h 43min",
+        "genres": "Comedy, Musical, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6833_AL_.jpg",
+        "year": "1952",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0046268",
+        "title": "The Wages of Fear",
+        "runtimeStr": "2h 11min",
+        "genres": "Adventure, Drama, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6904_AL_.jpg",
+        "year": "1953",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0046438",
+        "title": "Tokyo Story",
+        "runtimeStr": "2h 16min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6975_AL_.jpg",
+        "year": "1953",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0046912",
+        "title": "Dial M for Murder",
+        "runtimeStr": "1h 45min",
+        "genres": "Crime, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1954",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0047296",
+        "title": "On the Waterfront",
+        "runtimeStr": "1h 48min",
+        "genres": "Crime, Drama, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1954",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0047396",
+        "title": "Rear Window",
+        "runtimeStr": "1h 52min",
+        "genres": "Mystery, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6833_AL_.jpg",
+        "year": "1954",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0047478",
+        "title": "Seven Samurai",
+        "runtimeStr": "3h 27min",
+        "genres": "Action, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_Ratio0.7117_AL_.jpg",
+        "year": "1954",
+        "rating": "8.6"
+    },
+    {
+        "id": "tt0048473",
+        "title": "Pather Panchali",
+        "runtimeStr": "2h 5min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1955",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0050212",
+        "title": "The Bridge on the River Kwai",
+        "runtimeStr": "2h 41min",
+        "genres": "Adventure, Drama, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1957",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0050825",
+        "title": "Paths of Glory",
+        "runtimeStr": "1h 28min",
+        "genres": "Drama, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1957",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0050976",
+        "title": "The Seventh Seal",
+        "runtimeStr": "1h 36min",
+        "genres": "Drama, Fantasy",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6904_AL_.jpg",
+        "year": "1957",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0050986",
+        "title": "Wild Strawberries",
+        "runtimeStr": "1h 31min",
+        "genres": "Drama, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1957",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0051201",
+        "title": "Witness for the Prosecution",
+        "runtimeStr": "1h 56min",
+        "genres": "Crime, Drama, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1957",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0052357",
+        "title": "Vertigo",
+        "runtimeStr": "2h 8min",
+        "genres": "Mystery, Romance, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1958",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0052618",
+        "title": "Ben-Hur",
+        "runtimeStr": "3h 32min",
+        "genres": "Adventure, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1959",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0053125",
+        "title": "North by Northwest",
+        "runtimeStr": "2h 16min",
+        "genres": "Action, Adventure, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1959",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0053198",
+        "title": "The 400 Blows",
+        "runtimeStr": "1h 39min",
+        "genres": "Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.7544_AL_.jpg",
+        "year": "1959",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0053291",
+        "title": "Some Like It Hot",
+        "runtimeStr": "2h 1min",
+        "genres": "Comedy, Music, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1959",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0053604",
+        "title": "The Apartment",
+        "runtimeStr": "2h 5min",
+        "genres": "Comedy, Drama, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1960",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0054215",
+        "title": "Psycho",
+        "runtimeStr": "1h 49min",
+        "genres": "Horror, Mystery, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1960",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0055630",
+        "title": "Yojimbo",
+        "runtimeStr": "1h 50min",
+        "genres": "Action, Drama, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1961",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0056058",
+        "title": "Harakiri",
+        "runtimeStr": "2h 13min",
+        "genres": "Action, Drama, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_Ratio0.7402_AL_.jpg",
+        "year": "1962",
+        "rating": "8.6"
+    },
+    {
+        "id": "tt0056172",
+        "title": "Lawrence of Arabia",
+        "runtimeStr": "3h 38min",
+        "genres": "Adventure, Biography, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.6975_AL_.jpg",
+        "year": "1962",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0056592",
+        "title": "To Kill a Mockingbird",
+        "runtimeStr": "2h 9min",
+        "genres": "Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1962",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0057012",
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "runtimeStr": "1h 35min",
+        "genres": "Comedy, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWMxYjZkOWUtM2FjMi00MmI1LThkNzQtNTM5Y2E2ZGQ2NGFhXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_Ratio0.6762_AL_.jpg",
+        "year": "1964",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0057115",
+        "title": "The Great Escape",
+        "runtimeStr": "2h 52min",
+        "genres": "Adventure, Drama, History",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1963",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0057565",
+        "title": "High and Low",
+        "runtimeStr": "2h 23min",
+        "genres": "Crime, Drama, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1963",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0058946",
+        "title": "The Battle of Algiers",
+        "runtimeStr": "2h 1min",
+        "genres": "Drama, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1966",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0059578",
+        "title": "For a Few Dollars More",
+        "runtimeStr": "2h 12min",
+        "genres": "Drama, Western",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1965",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0059742",
+        "title": "The Sound of Music",
+        "runtimeStr": "2h 52min",
+        "genres": "Biography, Drama, Family",
+        "image": "https://m.media-amazon.com/images/M/MV5BODIxNjhkYjEtYzUyMi00YTNjLWE1YjktNjAyY2I2MWNkNmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.7046_AL_.jpg",
+        "year": "1965",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0060196",
+        "title": "The Good, the Bad and the Ugly",
+        "runtimeStr": "2h 58min",
+        "genres": "Adventure, Western",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1966",
+        "rating": "8.8"
+    },
+    {
+        "id": "tt0060827",
+        "title": "Persona",
+        "runtimeStr": "1h 23min",
+        "genres": "Drama, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmFlOTcxMWUtZTMzMi00NWIyLTkwOTEtNjIxNmViNzc2Yzc1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1966",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0061512",
+        "title": "Cool Hand Luke",
+        "runtimeStr": "2h 7min",
+        "genres": "Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1967",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0062622",
+        "title": "2001: A Space Odyssey",
+        "runtimeStr": "2h 29min",
+        "genres": "Adventure, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1968",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0064116",
+        "title": "Once Upon a Time in the West",
+        "runtimeStr": "2h 45min",
+        "genres": "Western",
+        "image": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1968",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0066921",
+        "title": "A Clockwork Orange",
+        "runtimeStr": "2h 16min",
+        "genres": "Crime, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1971",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0070047",
+        "title": "The Exorcist",
+        "runtimeStr": "2h 2min",
+        "genres": "Horror",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1973",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0070735",
+        "title": "The Sting",
+        "runtimeStr": "2h 9min",
+        "genres": "Comedy, Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1973",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0071315",
+        "title": "Chinatown",
+        "runtimeStr": "2h 10min",
+        "genres": "Drama, Mystery, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1974",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0071562",
+        "title": "The Godfather Part II",
+        "runtimeStr": "3h 22min",
+        "genres": "Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.7046_AL_.jpg",
+        "year": "1974",
+        "rating": "9"
+    },
+    {
+        "id": "tt0071853",
+        "title": "Monty Python and the Holy Grail",
+        "runtimeStr": "1h 31min",
+        "genres": "Adventure, Comedy, Fantasy",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1975",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0072684",
+        "title": "Barry Lyndon",
+        "runtimeStr": "3h 5min",
+        "genres": "Adventure, Drama, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1975",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0073195",
+        "title": "Jaws",
+        "runtimeStr": "2h 4min",
+        "genres": "Adventure, Mystery, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1975",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0073486",
+        "title": "One Flew Over the Cuckoo's Nest",
+        "runtimeStr": "2h 13min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1975",
+        "rating": "8.7"
+    },
+    {
+        "id": "tt0074958",
+        "title": "Network",
+        "runtimeStr": "2h 1min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzY0NjU5ODUtOTAzMC00NTU5LWJkZjctYWMyOWY2MTZmOWM1XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_Ratio0.6762_AL_.jpg",
+        "year": "1976",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0075148",
+        "title": "Rocky",
+        "runtimeStr": "2h",
+        "genres": "Drama, Sport",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1976",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0075314",
+        "title": "Taxi Driver",
+        "runtimeStr": "1h 54min",
+        "genres": "Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1976",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0076759",
+        "title": "Star Wars: Episode IV - A New Hope",
+        "runtimeStr": "2h 1min",
+        "genres": "Action, Adventure, Fantasy",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_Ratio0.6762_AL_.jpg",
+        "year": "1977",
+        "rating": "8.6"
+    },
+    {
+        "id": "tt0077416",
+        "title": "The Deer Hunter",
+        "runtimeStr": "3h 3min",
+        "genres": "Drama, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6833_AL_.jpg",
+        "year": "1978",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0078748",
+        "title": "Alien",
+        "runtimeStr": "1h 57min",
+        "genres": "Horror, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1979",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0078788",
+        "title": "Apocalypse Now",
+        "runtimeStr": "2h 27min",
+        "genres": "Drama, Mystery, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1979",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0079470",
+        "title": "Life of Brian",
+        "runtimeStr": "1h 34min",
+        "genres": "Comedy",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDA1ZWI4ZDItOTRlYi00OTUxLWFlNWQtMzM5NDI0YjA4ZGI2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1979",
+        "rating": "8"
+    },
+    {
+        "id": "tt0080678",
+        "title": "The Elephant Man",
+        "runtimeStr": "2h 4min",
+        "genres": "Biography, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1980",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0080684",
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "runtimeStr": "2h 4min",
+        "genres": "Action, Adventure, Fantasy",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1980",
+        "rating": "8.7"
+    },
+    {
+        "id": "tt0081398",
+        "title": "Raging Bull",
+        "runtimeStr": "2h 9min",
+        "genres": "Biography, Drama, Sport",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.6833_AL_.jpg",
+        "year": "1980",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0081505",
+        "title": "The Shining",
+        "runtimeStr": "2h 26min",
+        "genres": "Drama, Horror",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1980",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0082096",
+        "title": "Das Boot",
+        "runtimeStr": "2h 29min",
+        "genres": "Drama, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_Ratio0.6762_AL_.jpg",
+        "year": "1981",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0082971",
+        "title": "Indiana Jones and the Raiders of the Lost Ark",
+        "runtimeStr": "1h 55min",
+        "genres": "Action, Adventure",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_Ratio0.6833_AL_.jpg",
+        "year": "1981",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0083658",
+        "title": "Blade Runner",
+        "runtimeStr": "1h 57min",
+        "genres": "Action, Drama, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1982",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0084787",
+        "title": "The Thing",
+        "runtimeStr": "1h 49min",
+        "genres": "Horror, Mystery, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1982",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0086190",
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "runtimeStr": "2h 11min",
+        "genres": "Action, Adventure, Fantasy",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1983",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0086250",
+        "title": "Scarface",
+        "runtimeStr": "2h 50min",
+        "genres": "Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1983",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0086879",
+        "title": "Amadeus",
+        "runtimeStr": "2h 40min",
+        "genres": "Biography, Drama, Music",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1984",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0087843",
+        "title": "Once Upon a Time in America",
+        "runtimeStr": "3h 49min",
+        "genres": "Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1984",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0088247",
+        "title": "The Terminator",
+        "runtimeStr": "1h 47min",
+        "genres": "Action, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1984",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0088763",
+        "title": "Back to the Future",
+        "runtimeStr": "1h 56min",
+        "genres": "Adventure, Comedy, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1985",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0089881",
+        "title": "Ran",
+        "runtimeStr": "2h 42min",
+        "genres": "Action, Drama, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1985",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0090605",
+        "title": "Aliens",
+        "runtimeStr": "2h 17min",
+        "genres": "Action, Adventure, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTM1Nzk5ZTItN2ZkNi00MDRjLWIwYWUtOWY4ZjZmZjkyM2I0XkEyXkFqcGdeQXVyNTU1NTcwOTk@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1986",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0091251",
+        "title": "Come and See",
+        "runtimeStr": "2h 22min",
+        "genres": "Drama, Thriller, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1985",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0091763",
+        "title": "Platoon",
+        "runtimeStr": "2h",
+        "genres": "Drama, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1986",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0092005",
+        "title": "Stand by Me",
+        "runtimeStr": "1h 29min",
+        "genres": "Adventure, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1986",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0093058",
+        "title": "Full Metal Jacket",
+        "runtimeStr": "1h 56min",
+        "genres": "Drama, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1987",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0095016",
+        "title": "Die Hard",
+        "runtimeStr": "2h 12min",
+        "genres": "Action, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1988",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0095327",
+        "title": "Grave of the Fireflies",
+        "runtimeStr": "1h 29min",
+        "genres": "Animation, Drama, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1988",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0095765",
+        "title": "Cinema Paradiso",
+        "runtimeStr": "2h 35min",
+        "genres": "Drama, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1988",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0096283",
+        "title": "My Neighbor Totoro",
+        "runtimeStr": "1h 26min",
+        "genres": "Animation, Comedy, Family",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7189_AL_.jpg",
+        "year": "1988",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0097165",
+        "title": "Dead Poets Society",
+        "runtimeStr": "2h 8min",
+        "genres": "Comedy, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1989",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0097576",
+        "title": "Indiana Jones and the Last Crusade",
+        "runtimeStr": "2h 7min",
+        "genres": "Action, Adventure",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1989",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0099348",
+        "title": "Dances with Wolves",
+        "runtimeStr": "3h 1min",
+        "genres": "Adventure, Drama, Western",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1990",
+        "rating": "8"
+    },
+    {
+        "id": "tt0099685",
+        "title": "Goodfellas",
+        "runtimeStr": "2h 25min",
+        "genres": "Biography, Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1990",
+        "rating": "8.7"
+    },
+    {
+        "id": "tt0102926",
+        "title": "The Silence of the Lambs",
+        "runtimeStr": "1h 58min",
+        "genres": "Crime, Drama, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1991",
+        "rating": "8.6"
+    },
+    {
+        "id": "tt0103064",
+        "title": "Terminator 2: Judgment Day",
+        "runtimeStr": "2h 17min",
+        "genres": "Action, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1991",
+        "rating": "8.6"
+    },
+    {
+        "id": "tt0103639",
+        "title": "Aladdin",
+        "runtimeStr": "1h 30min",
+        "genres": "Animation, Adventure, Comedy",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTg5ZTVmM2EtZjdhZC00MzBjLWEwZTYtNWIwZDczYzZkMzA4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1992",
+        "rating": "8"
+    },
+    {
+        "id": "tt0105236",
+        "title": "Reservoir Dogs",
+        "runtimeStr": "1h 39min",
+        "genres": "Crime, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1992",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0105695",
+        "title": "Unforgiven",
+        "runtimeStr": "2h 10min",
+        "genres": "Drama, Western",
+        "image": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1992",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0107048",
+        "title": "Groundhog Day",
+        "runtimeStr": "1h 41min",
+        "genres": "Comedy, Drama, Fantasy",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1993",
+        "rating": "8"
+    },
+    {
+        "id": "tt0107207",
+        "title": "In the Name of the Father",
+        "runtimeStr": "2h 13min",
+        "genres": "Biography, Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1993",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0107290",
+        "title": "Jurassic Park",
+        "runtimeStr": "2h 7min",
+        "genres": "Action, Adventure, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1993",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0109830",
+        "title": "Forrest Gump",
+        "runtimeStr": "2h 22min",
+        "genres": "Drama, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6904_AL_.jpg",
+        "year": "1994",
+        "rating": "8.8"
+    },
+    {
+        "id": "tt0110357",
+        "title": "The Lion King",
+        "runtimeStr": "1h 28min",
+        "genres": "Animation, Adventure, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1994",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0110413",
+        "title": "Léon: The Professional",
+        "runtimeStr": "1h 50min",
+        "genres": "Action, Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1994",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0110912",
+        "title": "Pulp Fiction",
+        "runtimeStr": "2h 34min",
+        "genres": "Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6904_AL_.jpg",
+        "year": "1994",
+        "rating": "8.9"
+    },
+    {
+        "id": "tt0112471",
+        "title": "Before Sunrise",
+        "runtimeStr": "1h 41min",
+        "genres": "Drama, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1995",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0112573",
+        "title": "Braveheart",
+        "runtimeStr": "2h 58min",
+        "genres": "Biography, Drama, History",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1995",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0112641",
+        "title": "Casino",
+        "runtimeStr": "2h 58min",
+        "genres": "Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1995",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0113247",
+        "title": "La haine",
+        "runtimeStr": "1h 38min",
+        "genres": "Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1995",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0113277",
+        "title": "Heat",
+        "runtimeStr": "2h 50min",
+        "genres": "Action, Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6975_AL_.jpg",
+        "year": "1995",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0114369",
+        "title": "Se7en",
+        "runtimeStr": "2h 7min",
+        "genres": "Crime, Drama, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1995",
+        "rating": "8.6"
+    },
+    {
+        "id": "tt0114709",
+        "title": "Toy Story",
+        "runtimeStr": "1h 21min",
+        "genres": "Animation, Adventure, Comedy",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1995",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0114814",
+        "title": "The Usual Suspects",
+        "runtimeStr": "1h 46min",
+        "genres": "Crime, Drama, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1995",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0116282",
+        "title": "Fargo",
+        "runtimeStr": "1h 38min",
+        "genres": "Crime, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1996",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0117951",
+        "title": "Trainspotting",
+        "runtimeStr": "1h 33min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1996",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0118715",
+        "title": "The Big Lebowski",
+        "runtimeStr": "1h 57min",
+        "genres": "Comedy, Crime",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1998",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0118799",
+        "title": "Life Is Beautiful",
+        "runtimeStr": "1h 56min",
+        "genres": "Comedy, Drama, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1997",
+        "rating": "8.6"
+    },
+    {
+        "id": "tt0118849",
+        "title": "Children of Heaven",
+        "runtimeStr": "1h 29min",
+        "genres": "Drama, Family, Sport",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1997",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0119217",
+        "title": "Good Will Hunting",
+        "runtimeStr": "2h 6min",
+        "genres": "Drama, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1997",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0119488",
+        "title": "L.A. Confidential",
+        "runtimeStr": "2h 18min",
+        "genres": "Crime, Drama, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6833_AL_.jpg",
+        "year": "1997",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0119698",
+        "title": "Princess Mononoke",
+        "runtimeStr": "2h 14min",
+        "genres": "Animation, Action, Adventure",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTZkYmI0MmEtNGFlZC00OWZjLWFjMmItMjk1OWZkOWJiZGVjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1997",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0120382",
+        "title": "The Truman Show",
+        "runtimeStr": "1h 43min",
+        "genres": "Comedy, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1998",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0120586",
+        "title": "American History X",
+        "runtimeStr": "1h 59min",
+        "genres": "Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1998",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0120689",
+        "title": "The Green Mile",
+        "runtimeStr": "3h 9min",
+        "genres": "Crime, Drama, Fantasy",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_Ratio0.6762_AL_.jpg",
+        "year": "1999",
+        "rating": "8.6"
+    },
+    {
+        "id": "tt0120735",
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "runtimeStr": "1h 47min",
+        "genres": "Action, Comedy, Crime",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1998",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0120815",
+        "title": "Saving Private Ryan",
+        "runtimeStr": "2h 49min",
+        "genres": "Drama, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_Ratio0.6833_AL_.jpg",
+        "year": "1998",
+        "rating": "8.6"
+    },
+    {
+        "id": "tt0129167",
+        "title": "The Iron Giant",
+        "runtimeStr": "1h 26min",
+        "genres": "Animation, Action, Adventure",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzBjZTNkMzQtZmNkOC00Yzk0LTljMjktZjk3YWVlZjY3NTk2XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_Ratio0.6762_AL_.jpg",
+        "year": "1999",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0133093",
+        "title": "The Matrix",
+        "runtimeStr": "2h 16min",
+        "genres": "Action, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1999",
+        "rating": "8.7"
+    },
+    {
+        "id": "tt0137523",
+        "title": "Fight Club",
+        "runtimeStr": "2h 19min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1999",
+        "rating": "8.8"
+    },
+    {
+        "id": "tt0167260",
+        "title": "The Lord of the Rings: The Return of the King",
+        "runtimeStr": "3h 21min",
+        "genres": "Action, Adventure, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2003",
+        "rating": "9"
+    },
+    {
+        "id": "tt0167404",
+        "title": "The Sixth Sense",
+        "runtimeStr": "1h 47min",
+        "genres": "Drama, Mystery, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1999",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0169547",
+        "title": "American Beauty",
+        "runtimeStr": "2h 2min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+        "year": "1999",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0180093",
+        "title": "Requiem for a Dream",
+        "runtimeStr": "1h 42min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2000",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0198781",
+        "title": "Monsters, Inc.",
+        "runtimeStr": "1h 32min",
+        "genres": "Animation, Adventure, Comedy",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2001",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0208092",
+        "title": "Snatch",
+        "runtimeStr": "1h 42min",
+        "genres": "Comedy, Crime",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6833_AL_.jpg",
+        "year": "2000",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0209144",
+        "title": "Memento",
+        "runtimeStr": "1h 53min",
+        "genres": "Mystery, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6833_AL_.jpg",
+        "year": "2000",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0211915",
+        "title": "Amélie",
+        "runtimeStr": "2h 2min",
+        "genres": "Comedy, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2001",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0245429",
+        "title": "Spirited Away",
+        "runtimeStr": "2h 5min",
+        "genres": "Animation, Adventure, Family",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2001",
+        "rating": "8.6"
+    },
+    {
+        "id": "tt0245712",
+        "title": "Amores Perros",
+        "runtimeStr": "2h 34min",
+        "genres": "Drama, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2000",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0253474",
+        "title": "The Pianist",
+        "runtimeStr": "2h 30min",
+        "genres": "Biography, Drama, Music",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.7260_AL_.jpg",
+        "year": "2002",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0264464",
+        "title": "Catch Me If You Can",
+        "runtimeStr": "2h 21min",
+        "genres": "Biography, Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_Ratio0.6762_AL_.jpg",
+        "year": "2002",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0266543",
+        "title": "Finding Nemo",
+        "runtimeStr": "1h 40min",
+        "genres": "Animation, Adventure, Comedy",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjMxYzBiNjUtZDliNC00MDAyLTg3N2QtOWNjNmNhZGQzNDg5XkEyXkFqcGdeQXVyNjE2MjQwNjc@._V1_Ratio0.6833_AL_.jpg",
+        "year": "2003",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0266697",
+        "title": "Kill Bill: Vol. 1",
+        "runtimeStr": "1h 51min",
+        "genres": "Action, Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2003",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0268978",
+        "title": "A Beautiful Mind",
+        "runtimeStr": "2h 15min",
+        "genres": "Biography, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2001",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0317248",
+        "title": "City of God",
+        "runtimeStr": "2h 10min",
+        "genres": "Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2002",
+        "rating": "8.6"
+    },
+    {
+        "id": "tt0317705",
+        "title": "The Incredibles",
+        "runtimeStr": "1h 55min",
+        "genres": "Animation, Action, Adventure",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2004",
+        "rating": "8"
+    },
+    {
+        "id": "tt0325980",
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "runtimeStr": "2h 23min",
+        "genres": "Action, Adventure, Fantasy",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2003",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0338013",
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "runtimeStr": "1h 48min",
+        "genres": "Drama, Romance, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2004",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0347149",
+        "title": "Howl's Moving Castle",
+        "runtimeStr": "1h 59min",
+        "genres": "Animation, Adventure, Family",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmM4YTFmMmItMGE3Yy00MmRkLTlmZGEtMzZlOTQzYjk3MzA2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2004",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0353969",
+        "title": "Memories of Murder",
+        "runtimeStr": "2h 12min",
+        "genres": "Crime, Drama, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2003",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0361748",
+        "title": "Inglourious Basterds",
+        "runtimeStr": "2h 33min",
+        "genres": "Adventure, Drama, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2009",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0363163",
+        "title": "Downfall",
+        "runtimeStr": "2h 36min",
+        "genres": "Biography, Drama, History",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_Ratio0.6833_AL_.jpg",
+        "year": "2004",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0364569",
+        "title": "Oldboy",
+        "runtimeStr": "2h",
+        "genres": "Action, Drama, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2003",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0372784",
+        "title": "Batman Begins",
+        "runtimeStr": "2h 20min",
+        "genres": "Action, Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2005",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0381681",
+        "title": "Before Sunset",
+        "runtimeStr": "1h 20min",
+        "genres": "Drama, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_Ratio0.6762_AL_.jpg",
+        "year": "2004",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0382932",
+        "title": "Ratatouille",
+        "runtimeStr": "1h 51min",
+        "genres": "Animation, Adventure, Comedy",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2007",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0395169",
+        "title": "Hotel Rwanda",
+        "runtimeStr": "2h 1min",
+        "genres": "Biography, Drama, History",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2004",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0405094",
+        "title": "The Lives of Others",
+        "runtimeStr": "2h 17min",
+        "genres": "Drama, Mystery, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2006",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0405159",
+        "title": "Million Dollar Baby",
+        "runtimeStr": "2h 12min",
+        "genres": "Drama, Sport",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_Ratio0.6833_AL_.jpg",
+        "year": "2004",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0407887",
+        "title": "The Departed",
+        "runtimeStr": "2h 31min",
+        "genres": "Crime, Drama, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_Ratio0.6762_AL_.jpg",
+        "year": "2006",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0434409",
+        "title": "V for Vendetta",
+        "runtimeStr": "2h 12min",
+        "genres": "Action, Drama, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2005",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0435761",
+        "title": "Toy Story 3",
+        "runtimeStr": "1h 43min",
+        "genres": "Animation, Adventure, Comedy",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_Ratio0.7117_AL_.jpg",
+        "year": "2010",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0457430",
+        "title": "Pan's Labyrinth",
+        "runtimeStr": "1h 58min",
+        "genres": "Drama, Fantasy, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2006",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0468569",
+        "title": "The Dark Knight",
+        "runtimeStr": "2h 32min",
+        "genres": "Action, Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2008",
+        "rating": "9"
+    },
+    {
+        "id": "tt0469494",
+        "title": "There Will Be Blood",
+        "runtimeStr": "2h 38min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2007",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0476735",
+        "title": "My Father and My Son",
+        "runtimeStr": "1h 52min",
+        "genres": "Drama, Family",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzEzMWYyYjEtNmVjZS00YTAyLWIyOTgtMzEzNzQxMTQzZTgwXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_Ratio0.6762_AL_.jpg",
+        "year": "2005",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0477348",
+        "title": "No Country for Old Men",
+        "runtimeStr": "2h 2min",
+        "genres": "Crime, Drama, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_Ratio0.6833_AL_.jpg",
+        "year": "2007",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt0482571",
+        "title": "The Prestige",
+        "runtimeStr": "2h 10min",
+        "genres": "Drama, Mystery, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_Ratio0.6762_AL_.jpg",
+        "year": "2006",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt0758758",
+        "title": "Into the Wild",
+        "runtimeStr": "2h 28min",
+        "genres": "Adventure, Biography, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2007",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0892769",
+        "title": "How to Train Your Dragon",
+        "runtimeStr": "1h 38min",
+        "genres": "Animation, Action, Adventure",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2010",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0910970",
+        "title": "WALL·E",
+        "runtimeStr": "1h 38min",
+        "genres": "Animation, Adventure, Family",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2008",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt0978762",
+        "title": "Mary and Max",
+        "runtimeStr": "1h 32min",
+        "genres": "Animation, Comedy, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.7046_AL_.jpg",
+        "year": "2009",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt0986264",
+        "title": "Like Stars on Earth",
+        "runtimeStr": "2h 45min",
+        "genres": "Drama, Family",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7046_AL_.jpg",
+        "year": "2007",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt0993846",
+        "title": "The Wolf of Wall Street",
+        "runtimeStr": "3h",
+        "genres": "Biography, Comedy, Crime",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2013",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt10272386",
+        "title": "The Father",
+        "runtimeStr": "1h 37min",
+        "genres": "Drama, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2020",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt1028532",
+        "title": "Hachi: A Dog's Tale",
+        "runtimeStr": "1h 33min",
+        "genres": "Biography, Drama, Family",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.7046_AL_.jpg",
+        "year": "2009",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt1049413",
+        "title": "Up",
+        "runtimeStr": "1h 36min",
+        "genres": "Animation, Adventure, Comedy",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjBkM2RjMzItM2M3Ni00N2NjLWE3NzMtMGY4MzE4MDAzMTRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2009",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt10872600",
+        "title": "Spider-Man: No Way Home",
+        "runtimeStr": "2h 28min",
+        "genres": "Action, Adventure, Fantasy",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2021",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt1130884",
+        "title": "Shutter Island",
+        "runtimeStr": "2h 18min",
+        "genres": "Mystery, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2010",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt1187043",
+        "title": "3 Idiots",
+        "runtimeStr": "2h 50min",
+        "genres": "Comedy, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6975_AL_.jpg",
+        "year": "2009",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt1201607",
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "runtimeStr": "2h 10min",
+        "genres": "Adventure, Family, Fantasy",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2011",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt1205489",
+        "title": "Gran Torino",
+        "runtimeStr": "1h 56min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2008",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt1255953",
+        "title": "Incendies",
+        "runtimeStr": "2h 11min",
+        "genres": "Drama, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2010",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt1291584",
+        "title": "Warrior",
+        "runtimeStr": "2h 20min",
+        "genres": "Action, Drama, Sport",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2011",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt1305806",
+        "title": "The Secret in Their Eyes",
+        "runtimeStr": "2h 9min",
+        "genres": "Drama, Mystery, Romance",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6833_AL_.jpg",
+        "year": "2009",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt1345836",
+        "title": "The Dark Knight Rises",
+        "runtimeStr": "2h 44min",
+        "genres": "Action, Drama, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2012",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt1375666",
+        "title": "Inception",
+        "runtimeStr": "2h 28min",
+        "genres": "Action, Adventure, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2010",
+        "rating": "8.8"
+    },
+    {
+        "id": "tt1392190",
+        "title": "Mad Max: Fury Road",
+        "runtimeStr": "2h",
+        "genres": "Action, Adventure, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2015",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt1392214",
+        "title": "Prisoners",
+        "runtimeStr": "2h 33min",
+        "genres": "Crime, Drama, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2013",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt1454029",
+        "title": "The Help",
+        "runtimeStr": "2h 26min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2011",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt15097216",
+        "title": "Jai Bhim",
+        "runtimeStr": "2h 44min",
+        "genres": "Crime, Drama, Mystery",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzFkM2FhMzQtYjUwZi00N2Y3LWFkZWItMmZmMjQxNGQwZmNhXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_Ratio0.8043_AL_.jpg",
+        "year": "2021",
+        "rating": "8.8"
+    },
+    {
+        "id": "tt1675434",
+        "title": "The Intouchables",
+        "runtimeStr": "1h 52min",
+        "genres": "Biography, Comedy, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2011",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt1745960",
+        "title": "Top Gun: Maverick",
+        "runtimeStr": "2h 10min",
+        "genres": "Action, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2022",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt1832382",
+        "title": "A Separation",
+        "runtimeStr": "2h 3min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2011",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt1853728",
+        "title": "Django Unchained",
+        "runtimeStr": "2h 45min",
+        "genres": "Drama, Western",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2012",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt1895587",
+        "title": "Spotlight",
+        "runtimeStr": "2h 9min",
+        "genres": "Biography, Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2015",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt1950186",
+        "title": "Ford v Ferrari",
+        "runtimeStr": "2h 32min",
+        "genres": "Action, Biography, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_Ratio0.6762_AL_.jpg",
+        "year": "2019",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt1979320",
+        "title": "Rush",
+        "runtimeStr": "2h 3min",
+        "genres": "Action, Biography, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2013",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt2024544",
+        "title": "12 Years a Slave",
+        "runtimeStr": "2h 14min",
+        "genres": "Biography, Drama, History",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2013",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt2096673",
+        "title": "Inside Out",
+        "runtimeStr": "1h 35min",
+        "genres": "Animation, Adventure, Comedy",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2015",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt2106476",
+        "title": "The Hunt",
+        "runtimeStr": "1h 55min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_Ratio0.7046_AL_.jpg",
+        "year": "2012",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt2119532",
+        "title": "Hacksaw Ridge",
+        "runtimeStr": "2h 19min",
+        "genres": "Biography, Drama, History",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2016",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt2267998",
+        "title": "Gone Girl",
+        "runtimeStr": "2h 29min",
+        "genres": "Drama, Mystery, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_Ratio0.6833_AL_.jpg",
+        "year": "2014",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt2278388",
+        "title": "The Grand Budapest Hotel",
+        "runtimeStr": "1h 39min",
+        "genres": "Adventure, Comedy, Crime",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2014",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt2380307",
+        "title": "Coco",
+        "runtimeStr": "1h 45min",
+        "genres": "Animation, Adventure, Comedy",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_Ratio0.7046_AL_.jpg",
+        "year": "2017",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt2582802",
+        "title": "Whiplash",
+        "runtimeStr": "1h 46min",
+        "genres": "Drama, Music",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2014",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt3011894",
+        "title": "Wild Tales",
+        "runtimeStr": "2h 2min",
+        "genres": "Comedy, Drama, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_Ratio0.7189_AL_.jpg",
+        "year": "2014",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt3170832",
+        "title": "Room",
+        "runtimeStr": "1h 58min",
+        "genres": "Drama, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2015",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt3315342",
+        "title": "Logan",
+        "runtimeStr": "2h 17min",
+        "genres": "Action, Drama, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2017",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt4016934",
+        "title": "The Handmaiden",
+        "runtimeStr": "2h 25min",
+        "genres": "Drama, Romance, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6975_AL_.jpg",
+        "year": "2016",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt4154756",
+        "title": "Avengers: Infinity War",
+        "runtimeStr": "2h 29min",
+        "genres": "Action, Adventure, Sci-Fi",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2018",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt4154796",
+        "title": "Avengers: Endgame",
+        "runtimeStr": "3h 1min",
+        "genres": "Action, Adventure, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2019",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt4729430",
+        "title": "Klaus",
+        "runtimeStr": "1h 36min",
+        "genres": "Animation, Adventure, Comedy",
+        "image": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2019",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt5027774",
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "runtimeStr": "1h 55min",
+        "genres": "Comedy, Crime, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2017",
+        "rating": "8.1"
+    },
+    {
+        "id": "tt5074352",
+        "title": "Dangal",
+        "runtimeStr": "2h 41min",
+        "genres": "Action, Biography, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_Ratio0.7189_AL_.jpg",
+        "year": "2016",
+        "rating": "8.3"
+    },
+    {
+        "id": "tt5311514",
+        "title": "Your Name.",
+        "runtimeStr": "1h 46min",
+        "genres": "Animation, Drama, Fantasy",
+        "image": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2016",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt6751668",
+        "title": "Parasite",
+        "runtimeStr": "2h 12min",
+        "genres": "Drama, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2019",
+        "rating": "8.5"
+    },
+    {
+        "id": "tt6791350",
+        "title": "Guardians of the Galaxy Vol. 3",
+        "runtimeStr": "2h 30min",
+        "genres": "Action, Adventure, Comedy",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2023",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt6966692",
+        "title": "Green Book",
+        "runtimeStr": "2h 10min",
+        "genres": "Biography, Comedy, Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2018",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt7286456",
+        "title": "Joker",
+        "runtimeStr": "2h 2min",
+        "genres": "Crime, Drama, Thriller",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2019",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt8267604",
+        "title": "Capernaum",
+        "runtimeStr": "2h 6min",
+        "genres": "Drama",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_Ratio0.6833_AL_.jpg",
+        "year": "2018",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt8503618",
+        "title": "Hamilton",
+        "runtimeStr": "2h 40min",
+        "genres": "Biography, Drama, History",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2020",
+        "rating": "8.4"
+    },
+    {
+        "id": "tt8579674",
+        "title": "1917",
+        "runtimeStr": "1h 59min",
+        "genres": "Action, Drama, War",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2019",
+        "rating": "8.2"
+    },
+    {
+        "id": "tt9362722",
+        "title": "Spider-Man: Across the Spider-Verse",
+        "runtimeStr": "2h 20min",
+        "genres": "Animation, Action, Adventure",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzQ1ODUzYjktMzRiMS00ODNiLWI4NzQtOTRiN2VlNTNmODFjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6762_AL_.jpg",
+        "year": "2023",
+        "rating": "9"
+    }
+]
