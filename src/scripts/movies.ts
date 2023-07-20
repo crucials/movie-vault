@@ -8,6 +8,8 @@ type MovieArrayProxy = { value: Movie[] }
 
 let movies : MovieArrayProxy
 
+const BASE_URL = import.meta.env.BASE_URL
+
 window.addEventListener('load', async () => {
     const moviesList = document.querySelector('.movies')
     const movieCardTemplate = document.querySelector('#movieCardTemplate') as HTMLTemplateElement
@@ -109,7 +111,7 @@ export async function fillMoviesFromApi(filters? : MoviesFilters) {
 }
 
 async function getTrendingMovies() : Promise<Movie[]> {
-    const response = await fetch('/data/trending-movies.json')
+    const response = await fetch(BASE_URL + 'data/trending-movies.json')
 
     if(response.ok) {
         const dataFromServer = await response.json()
@@ -123,7 +125,7 @@ async function getTrendingMovies() : Promise<Movie[]> {
 }
 
 async function getFilteredMovies(filters : MoviesFilters) {
-    const response = await fetch('/data/movies.json')
+    const response = await fetch(BASE_URL + 'data/movies.json')
 
     if(!response.ok) {
         throw new Error()
