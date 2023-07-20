@@ -111,12 +111,11 @@ export async function fillMoviesFromApi(filters? : MoviesFilters) {
 }
 
 async function getTrendingMovies() : Promise<Movie[]> {
-    const trendingMoviesUrl = `${API_BASE_URL}/AdvancedSearch/${apiKey}?groups=top_100&count=12`
-    const response = await fetch(trendingMoviesUrl)
+    const response = await fetch('/data/trending-movies.json')
 
     if(response.ok) {
         const dataFromServer = await response.json()
-        const trendingMovies = processSearchResults(dataFromServer.results)
+        const trendingMovies = processSearchResults(dataFromServer)
 
         return trendingMovies
     }
@@ -126,13 +125,35 @@ async function getTrendingMovies() : Promise<Movie[]> {
 }
 
 async function getFilteredMovies(filters : MoviesFilters) {
-    const response = await fetch(buildFilteredMoviesUrl(filters))
+    const response = await fetch('/data/movies.json')
 
     if(!response.ok) {
         throw new Error()
     }
 
-    return processSearchResults((await response.json()).results)
+    const moviesFromJson = processSearchResults((await response.json()))
+    return moviesFromJson.filter(movie => {
+        const trimmedSearchQuery = filters.searchQuery.trim()
+
+        if(trimmedSearchQuery.length > 0 
+            && !movie.title.toUpperCase().includes(trimmedSearchQuery.toUpperCase())) {
+            return false
+        }
+
+        if(filters.recent && movie.year !== new Date().getFullYear()) {
+            return false
+        }
+
+        if(filters.goodRating && movie.rating < 8) {
+            return false
+        }
+
+        if(filters.genres.length > 0 && !filters.genres.some(genre => movie.genres.includes(genre))) {
+            return false
+        }
+
+        return true
+    }).slice(0, 8)
 }
 
 function processSearchResults(results : any) : Movie[] {
@@ -142,7 +163,9 @@ function processSearchResults(results : any) : Movie[] {
             runtime: movieFromServer.runtimeStr,
             genres: movieFromServer.genres.split(', '),
             posterUrl: movieFromServer.image,
-            moreInfoPageUrl: IMDB_BASE_URL + '/' + movieFromServer.id
+            moreInfoPageUrl: IMDB_BASE_URL + '/' + movieFromServer.id,
+            year: +movieFromServer.year,
+            rating: +movieFromServer.rating,
         }
     })
 

@@ -10,5 +10,7 @@ export interface Movie {
     runtime : string
     genres : string[],
     posterUrl : string,
-    moreInfoPageUrl : string
+    moreInfoPageUrl : string,
+    rating : number,
+    year : number
 }
