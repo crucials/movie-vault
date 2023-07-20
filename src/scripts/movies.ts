@@ -171,23 +171,3 @@ function processSearchResults(results : any) : Movie[] {
 
     return processedResults
 }
-
-function buildFilteredMoviesUrl(filters : MoviesFilters) {
-    let searchUrl = `${API_BASE_URL}/AdvancedSearch/${apiKey}?count=8&title=${filters.searchQuery}`
-
-    if(filters.recent) {
-        const currentYear = new Date().getFullYear()
-        searchUrl = searchUrl + `&release_date=${currentYear}`
-    }
-    
-    if(filters.goodRating) {
-        searchUrl = searchUrl + '&user_rating=8.0,10'
-    }
-
-    if(filters.genres.length > 0) {
-        const genresString = filters.genres.reduce((genre1, genre2) => genre1 + ',' + genre2)
-        searchUrl = searchUrl + `&genres=${genresString}`
-    }
-
-    return searchUrl
-}
