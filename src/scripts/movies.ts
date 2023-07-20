@@ -1,8 +1,6 @@
 import { Movie, MoviesFilters } from './types'
 import { getDaysPassedCount, getHoursAndMinutes } from './utils'
 
-const apiKey = import.meta.env.VITE_API_KEY
-const API_BASE_URL = 'https://imdb-api.com/en/API'
 const IMDB_BASE_URL = 'https://www.imdb.com/title'
 
 type MovieArrayProxy = { value: Movie[] }
