@@ -33,11 +33,6 @@ window.addEventListener('load', () => {
         event.preventDefault()
         const searchQuery = searchQueryField.value.trim()
 
-        if(searchQuery.length < 4) {
-            showErrorText()
-            return
-        }
-
         errorText?.classList.remove('error-text-visible')
 
         const filters : MoviesFilters = { 

@@ -153,7 +153,7 @@ async function getFilteredMovies(filters : MoviesFilters) {
         }
 
         return true
-    }).slice(0, 8)
+    }).slice(0, 20)
 }
 
 function processSearchResults(results : any) : Movie[] {
